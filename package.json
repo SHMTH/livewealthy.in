@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@iconify/react": "^4.1.0",
-    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
